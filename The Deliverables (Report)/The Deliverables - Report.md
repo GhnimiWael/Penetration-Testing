@@ -32,6 +32,6 @@
 		3. An introduction to the Executive summary could read like this:
 			1. "The purpose of this assessment and report is to identify any web application issues that could after ABC, Inc.'s e-commerce application and the web server hosting it, and to provide solutions to remedy these same issues.'"
 		4. Use Graph
-			1. like this: ![[0. Official WORK & notes/Photos/Pasted image 20210429132208.png]]
+			1. like this: ![[0. Official WORK & notes/Penetration testing/Photos/Pasted image 20210429132208.png]]
 	2. Vulnerability Report
 	3. Remediation Report
