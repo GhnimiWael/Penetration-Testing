@@ -1,0 +1,5 @@
+- OWASP - Open Web Application security project
+- The OWASP Testing guide: https://owasp.org/www-project-web-security-testing-guide/
+- OWASP TOP 10: https://owasp.org/www-project-top-ten/
+	- Based on the risks associated with web application vulnerabilities, 
+- OWASP Checklist: https://github.com/tanprathan/OWASP-Testing-Checklist
