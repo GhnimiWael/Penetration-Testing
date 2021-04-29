@@ -10,7 +10,7 @@
 	3. On-time
 	4. Good looking
 	5. Adherent to client's goals
-5. The reporting phases
+5. Understanding Your audience
 	- The writing of report done simultaneously with testing
 	- Do not stop the test to write the report but follow this process:
 		- Process: Test & collect info => Finally write the report 
@@ -25,3 +25,9 @@
 		2. This is usually the most technical part of your report.
 6. Tools to use
 	1. Xmind
+7. The Report structure
+	1. Executive Summary
+		1. Where you talk to the corporate types or, in general, give a brief and concise overview about the whole engagement.
+		2. No more than 2-3 pages
+	2. Vulnerability Report
+	3. Remediation Report
