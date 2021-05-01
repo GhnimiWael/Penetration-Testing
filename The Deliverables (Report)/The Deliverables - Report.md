@@ -67,4 +67,5 @@
 					4. Duration: 6 -> 12 months
 		3. Provide suggestion on how to remediate common vulnerabilities (if available or net reference available patches, upgrades, hotfixes .. etc)
 		4. Prioritize your remediation plan according to the impact level
-		5. Templates and guides 
+		5. Templates and guides: 
+			1. https://cure53.de/#publications
